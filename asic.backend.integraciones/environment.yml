@@ -1,0 +1,6 @@
+name: asic-2
+dependencies:
+  - python=3.6.7
+  - pip
+  - pip:
+    - -r requirements.txt

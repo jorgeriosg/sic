@@ -1,0 +1,32 @@
+emoji==0.5.4
+fbmq==2.5.0
+ibm-watson==3.0.4
+ibm-cloud-sdk-core==0.5.1
+Werkzeug==1.0.0
+Flask==1.1.1
+Flask_Mail==0.9.1
+psycopg2-binary==2.8.3
+pycryptodome==3.9.0
+pymessenger==0.0.7.0
+pymongo==3.5.1
+PyMySQL==0.7.11
+redis==3.4.1
+requests==2.20.1
+sendgrid==6.1.0
+twilio==6.31.1
+APScheduler==3.6.3
+pytest==6.1.2
+python-dotenv==0.10.5
+Flask_Cors==3.0.9
+unidecode==1.1.2
+zeep==2.5.0
+icecream==2.1.1
+xmltodict==0.12.0
+pytz==2021.3
+tzlocal==2.1
+# librerias de cognitiva deben ir debajo de esto. En caso contrario, arriba.
+-i https://pypi.mycognitiva.io/
+cognitiva_watsoff==0.0.2
+cognitiva_xss_3==1.1.2
+logging_cognitiva==1.0.2
+
